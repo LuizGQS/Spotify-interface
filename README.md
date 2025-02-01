@@ -41,23 +41,7 @@ O projeto tem como objetivos:
 - [x] Criar uma interface inspirada no Spotify  
 - [x] Aprimorar as habilidades na manipulação do DOM com JavaScript
 
----
 
-## 📸 Preview do Projeto
 
-<!-- Substitua o link abaixo por uma imagem ou GIF do seu projeto -->
-![Preview do Projeto](https://link-para-imagem-ou-gif.com)
 
----
-
-## ⚡ Como Executar o Projeto
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-# Acesse a pasta do projeto
-cd seu-repositorio
-
-# Abra o arquivo index.html no seu navegador
 
