@@ -1,0 +1,6 @@
+/*usada para aplicar estilos responsivos, ou seja, diferentes estilos para diferentes tamanhos de tela.*/
+@media screen and(max-width:1015px) {
+  .offer__list-item{/*Ela que carrega do display grid(a quantidade de colunas)*/
+      grid-template-columns: 1fr 1fr;
+  }
+}

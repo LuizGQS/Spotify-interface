@@ -1,0 +1,11 @@
+/*Root é usado para selecionar elementos raiz, ou seja,
+elementos que se repete o codigo todo */
+:root{
+    /* FONT */
+    /*É como se estivesse declarando uma variavel que recebera essa fonte*/
+    --font-dm-sans:"DM Sans", sans-serif;
+
+    /* COLORS */
+    --bg-icon:#131313;
+    --bg-arrow-color:rgba(0,0,0,7)
+}
