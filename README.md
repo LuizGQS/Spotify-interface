@@ -1,12 +1,63 @@
-🎵 Clone do Spotify
-Este projeto foi desenvolvido como parte do curso da Alura, com o objetivo de recriar um site inspirado no Spotify, aplicando conceitos de HTML, CSS e JavaScript. O foco foi trabalhar o layout, responsividade e manipulação do DOM para criar uma interface moderna e funcional.
+# 🎧 Spotify Clone 🎧
 
-🚀 Tecnologias Utilizadas
-HTML5: Estruturação do conteúdo da página.
-CSS3: Estilização avançada, layout responsivo com Flexbox e Grid, além de pseudo-classes para interatividade.
-JavaScript: Manipulação do DOM para interações dinâmicas. 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-🎯 Objetivos do Projeto
-Praticar conceitos fundamentais e avançados de front-end.
-Criar uma interface responsiva inspirada no Spotify.
-Melhorar habilidades de manipulação do DOM para interatividade.
+---
+
+## 📋 Descrição do Projeto
+
+Este é um **clone da interface do Spotify**, desenvolvido durante o curso da **Alura**.  
+O projeto tem como objetivos:
+- 🌍 Criar um layout responsivo
+- 🎨 Aplicar estilos avançados com CSS (Flexbox, Grid, Media Queries)
+- ⚡ Desenvolver interatividade através da manipulação do DOM com JavaScript
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5** – Estruturação do site
+- **CSS3** – Estilização, com ênfase em Flexbox, Grid e pseudo-classes
+- **JavaScript** – Interatividade e manipulação do DOM
+
+---
+
+## 📚 Aulas e Conteúdo Aprendido
+
+| Aula         | Tópicos Abordados                                 |
+| ------------ | ------------------------------------------------- |
+| **Aula 01**  | Revisão de HTML, CSS e JS na prática              |
+| **Aula 02**  | Estilo Avançado e Posicionamento com CSS          |
+| **Aula 03**  | Layout Flexbox, Pseudo-classes e Responsividade     |
+| **Aula 04**  | CSS Grid, Media Queries e Manipulação do DOM com JS |
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- [x] Reforçar os conceitos fundamentais de front-end  
+- [x] Criar uma interface inspirada no Spotify  
+- [x] Aprimorar as habilidades na manipulação do DOM com JavaScript
+
+---
+
+## 📸 Preview do Projeto
+
+<!-- Substitua o link abaixo por uma imagem ou GIF do seu projeto -->
+![Preview do Projeto](https://link-para-imagem-ou-gif.com)
+
+---
+
+## ⚡ Como Executar o Projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+# Acesse a pasta do projeto
+cd seu-repositorio
+
+# Abra o arquivo index.html no seu navegador
+
